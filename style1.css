@@ -1,0 +1,32 @@
+header{
+    padding: 1rem;
+    text-align: center;
+    justify-content: center;
+    background-color: black;
+    color:lightcoral;
+    border:1px rgb(244,8,8) outset;
+}
+image{
+    height: 50px;
+    width: 50px;
+}
+body{
+    background-color: lightcoral;
+}
+.b{
+    padding: 1rem;
+    text-align: center;
+    justify-content: center;
+    background-color: black;
+    color: lightcoral;
+    border:1px rgb(80, 73, 175) outset; 
+   
+}
+footer{
+  
+    text-align: center;
+    justify-content: center;
+    background-color: black;
+    color: lightcoral;
+    border:1px rgb(244,8,8) outset; 
+}
